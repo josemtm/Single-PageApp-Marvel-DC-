@@ -1,0 +1,8 @@
+<div class="animated fadeIn Fast">
+    <h1>Heroes <small>Marvel y D.C</small></h1>
+    <hr>
+
+    <div class="card-columns">
+        <app-carta-heroe (heroeSeleccionado)="verHeroe( $event )" [heroe]="foo" [i]="i" *ngFor="let foo of heroes; let i = index"></app-carta-heroe>
+    </div>
+</div>
