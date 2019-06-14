@@ -4,7 +4,7 @@ Una aplicacion de prueba para mostrar informacion por medio de OPP y Angular
 
 ## Comenzando 🚀
 
-Para ver la aplicacion solo necesitas levantar un Ng serve desde la terminal y y explorarla
+Para ver la aplicacion solo necesitas levantar un Ng serve desde la terminal y  explorar
 
 
 ### Pre-requisitos 📋
